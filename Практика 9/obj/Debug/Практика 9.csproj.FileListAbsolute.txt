@@ -1,0 +1,7 @@
+C:\Users\leged\Desktop\практика\Практика 9\Практика 9\bin\Debug\Практика 9.exe.config
+C:\Users\leged\Desktop\практика\Практика 9\Практика 9\bin\Debug\Практика 9.exe
+C:\Users\leged\Desktop\практика\Практика 9\Практика 9\bin\Debug\Практика 9.pdb
+C:\Users\leged\Desktop\практика\Практика 9\Практика 9\obj\Debug\Практика 9.csprojAssemblyReference.cache
+C:\Users\leged\Desktop\практика\Практика 9\Практика 9\obj\Debug\Практика 9.csproj.CoreCompileInputs.cache
+C:\Users\leged\Desktop\практика\Практика 9\Практика 9\obj\Debug\Практика 9.exe
+C:\Users\leged\Desktop\практика\Практика 9\Практика 9\obj\Debug\Практика 9.pdb
